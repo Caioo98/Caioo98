@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center" style="font-size: 12pt">Caio Santos</p>
+<p align="center" style="font-size: 24pt">Caio Santos</p>
 
 ###
 
