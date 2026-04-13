@@ -1,6 +1,6 @@
 <img align="right" height="100" src="https://www.freeiconspng.com/thumbs/moon-png/moon-png-no-background-15.png"  />
 
-# Caio Santos
+<h1 align="center" style="text-decoration: none; margin-bottom: 20px;">Caio Santos</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
