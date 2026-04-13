@@ -4,8 +4,6 @@
 
 <h1 align="center" style="text-decoration: none">Caio Santos</h1>
 
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
