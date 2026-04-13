@@ -1,4 +1,4 @@
-<img align="right" style="margin-bottom: 20px" height="100" src="https://www.freeiconspng.com/thumbs/moon-png/moon-png-no-background-15.png"  />
+<img align="right" style="margin-bottom: 20px" height="70" src="https://www.freeiconspng.com/thumbs/moon-png/moon-png-no-background-15.png"  />
 
 <h1 align="center" style="text-decoration: none; margin-bottom: 20px;">Caio Santos</h1>
 
