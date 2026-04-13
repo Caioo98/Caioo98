@@ -1,8 +1,15 @@
-<img align="right" style="margin-bottom: 20px" height="70" src="https://www.freeiconspng.com/thumbs/moon-png/moon-png-no-background-15.png"  />
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://www.freeiconspng.com/thumbs/moon-png/moon-png-no-background-15.png" height="80"/>
+    </td>
+    <td>
+      <h1>Caio Santos</h1>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Caio Santos&height=100&fontSize=40"/>
-</p>
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
